@@ -27,16 +27,14 @@ With 12+ years in software architecture, I’ve empowered global enterprises to 
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Favorite or Featured Projects
 
-- **AI-Powered Financial Automation**  
-  Designed FastAPI-based microservices for financial chatbots and dynamic reporting, fully deployed on Azure AKS.
+I have worked on a wide range of impactful projects across different industries.
 
-- **Biometric Attendance System**  
-  Integrated with Oracle HCM Cloud, reducing manual HR effort by 30% and improving accuracy by 20%.
-
-- **SFDA Services Platform**  
-  Built the digital gateway for Saudi Food & Drug Authority, scaling to millions of users via microservices and Kubernetes.
+- Early in my career, I developed **SharePoint solutions** and **jQuery Mobile applications**, including an e-shopping platform.
+- Contributed to multiple **healthcare systems** such as patient management solutions and hospital service automation.
+- Built an **attendance tracking system**, a **drug registration and licensing platform**, and a **customs application** that streamlined import processes for goods entering through international borders.
+- More recently, I worked on **service systems integrated with banking services**, enhancing efficiency and security in financial transactions.
 
 ---
 
